@@ -63,4 +63,20 @@ body, html {
       -ms-flex-pack: center;
           justify-content: center;
 }
+
+@media screen and (max-width: 768px) {
+  #page #container {
+    width: 95%;
+    padding: 60px 5px 30px;
+  }
+  #page #container .image-container {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  #page #container .image-container div {
+    margin-bottom: 30px;
+  }
+}
 /*# sourceMappingURL=style.css.map */

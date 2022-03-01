@@ -49,6 +49,18 @@ body, html {
         #close {
 
         }
+    }    
+}
+
+@media screen and (max-width: 768px){
+    #page #container {
+        width: 95%;
+        padding: 60px 5px 30px;
+        .image-container {
+            flex-direction: column;
+            div {
+                margin-bottom: 30px;
+            }
+        }
     }
-    
 }
