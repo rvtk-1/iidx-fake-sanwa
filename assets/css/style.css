@@ -8,8 +8,8 @@ body, html {
 
 #page {
   background: #22c1c3;
-  background: -webkit-gradient(linear, left bottom, left top, from(#22c1c3), to(rgba(171, 45, 253, 0.509957)));
-  background: linear-gradient(0deg, #22c1c3 0%, rgba(171, 45, 253, 0.509957) 100%);
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(34, 192, 195, 0.5)), to(rgba(170, 45, 253, 0.384)));
+  background: linear-gradient(0deg, rgba(34, 192, 195, 0.5) 0%, rgba(170, 45, 253, 0.384) 100%);
 }
 
 #page #container {
