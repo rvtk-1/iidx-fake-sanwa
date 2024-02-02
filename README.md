@@ -1,1 +1,1 @@
-### https://rvtk-1.github.io/iidx-chanwa
+### https://wynwynyn.github.io/iidx-chanwa
